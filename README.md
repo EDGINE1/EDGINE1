@@ -1,7 +1,7 @@
 - 👋 Hi, I’m uma_shankar
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on frontend projects
+- 👀 I’m interested in c++
+- 🌱 I’m currently learning fundamentals
+- 💞️ I’m interested in developing solutions for MS office and Azure.
 - 📫 How to reach me umsmahapatro2000@gmail.com
 
 <!---
